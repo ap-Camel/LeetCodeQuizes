@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W0omsS+1vbNvYZJKuAOI4g3WAX1iuWJ/XQ8KBNtGbY5cjWpi2TwNiICjl3m9RkynAvdc9Zr540vdQ0V5IFOQhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\Cs\\LeetCodeQuizes\\oct2022\\oct2022.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ayman\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

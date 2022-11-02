@@ -1,0 +1,16 @@
+C:\Dev\Cs\LeetCodeQuizes\sep2022\bin\Debug\net5.0\sep2022.exe
+C:\Dev\Cs\LeetCodeQuizes\sep2022\bin\Debug\net5.0\sep2022.deps.json
+C:\Dev\Cs\LeetCodeQuizes\sep2022\bin\Debug\net5.0\sep2022.runtimeconfig.json
+C:\Dev\Cs\LeetCodeQuizes\sep2022\bin\Debug\net5.0\sep2022.runtimeconfig.dev.json
+C:\Dev\Cs\LeetCodeQuizes\sep2022\bin\Debug\net5.0\sep2022.dll
+C:\Dev\Cs\LeetCodeQuizes\sep2022\bin\Debug\net5.0\sep2022.pdb
+C:\Dev\Cs\LeetCodeQuizes\sep2022\obj\Debug\net5.0\sep2022.csproj.AssemblyReference.cache
+C:\Dev\Cs\LeetCodeQuizes\sep2022\obj\Debug\net5.0\sep2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Cs\LeetCodeQuizes\sep2022\obj\Debug\net5.0\sep2022.AssemblyInfoInputs.cache
+C:\Dev\Cs\LeetCodeQuizes\sep2022\obj\Debug\net5.0\sep2022.AssemblyInfo.cs
+C:\Dev\Cs\LeetCodeQuizes\sep2022\obj\Debug\net5.0\sep2022.csproj.CoreCompileInputs.cache
+C:\Dev\Cs\LeetCodeQuizes\sep2022\obj\Debug\net5.0\sep2022.dll
+C:\Dev\Cs\LeetCodeQuizes\sep2022\obj\Debug\net5.0\refint\sep2022.dll
+C:\Dev\Cs\LeetCodeQuizes\sep2022\obj\Debug\net5.0\sep2022.pdb
+C:\Dev\Cs\LeetCodeQuizes\sep2022\obj\Debug\net5.0\sep2022.genruntimeconfig.cache
+C:\Dev\Cs\LeetCodeQuizes\sep2022\obj\Debug\net5.0\ref\sep2022.dll
